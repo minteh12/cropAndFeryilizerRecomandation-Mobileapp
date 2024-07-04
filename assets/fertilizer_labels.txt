@@ -1,0 +1,19 @@
+1 Urea
+2 DAP
+3 MOP
+4 19:19:19 NPK
+5 SSP
+6 Magnesium Sulphate
+7 10:26:26 NPK
+8 50:26:26 NPK
+9 12:32:16 NPK
+10 Chilated Micronutrient1
+11 Ferrous Sulphate
+12 13:32:26 NPK
+13 Ammonium Sulphate
+14 10:10:10 NPK
+15 Hydrated Lime
+16 White Potash
+17 20:20:20 NPK
+18 18:46:00 NPK
+19 Sulphur

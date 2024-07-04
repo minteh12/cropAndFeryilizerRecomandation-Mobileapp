@@ -1,0 +1,16 @@
+1 Sugarcane
+2 Wheat
+3 Cotton
+4 Jowar
+5 Maize
+6 Rice
+7 Groundnut
+8 Tur
+9 Ginger
+10 Grapes
+11 Urad
+12 Moong
+13 Gram
+14 Turmeric
+15 Soybean
+16 Masoor
